@@ -20,7 +20,7 @@ public class SH_04_CBSE_Percentage {
         float percentage = ((physics + English + chemistry + mathematics + computer) / 500.0f) * 100;
 
         System.out.println("percentage : ");
-        
+
 
     }
 }
